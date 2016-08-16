@@ -1,0 +1,17 @@
+{
+  "name": "mean_max",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Max Carlquist"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "animate.css": "*",
+    "angular": "*",
+    "angular-route": "*",
+    "bootstrap": "*",
+    "font-awesome": "*"
+  }
+}
